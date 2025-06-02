@@ -68,17 +68,6 @@ Breadth-First Search (BFS) is a graph traversal algorithm that explores all neig
 
 ---
 
-## 🚀 How to Run
-
-1. **Compile the code**:
-
-```bash
-g++ bfs_matrix.cpp -o bfs
-
-2. Run the program:
-
-./bfs
-
 ✅ Requirements
 C++ compiler (e.g., g++)
 
@@ -88,6 +77,18 @@ Terminal or IDE to run the code
 The adjacency matrix is initialized to 0.
 
 Nodes are 1-indexed.
+
+
+## 🚀 How to Run
+
+1. **Compile the code**:
+
+g++ bfs_matrix.cpp -o bfs
+
+2. Run the program:
+
+./bfs
+
 
 You can modify matrix[][101] to handle larger graphs.
 
